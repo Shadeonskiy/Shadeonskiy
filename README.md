@@ -1,6 +1,6 @@
 ### Hi there, my name is Vladyslav Lytvynchuk 👋
 ### Software Engineering Student of Taras Shevchenko's Kyiv National University
-### Faculty of Information Technologies, Group IPS-21
+### Faculty of Informational Technologies, Group IPS-21
 <!--
 **Shadeonskiy/Shadeonskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
